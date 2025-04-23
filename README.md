@@ -1,5 +1,5 @@
 ## Shape Movement
-This is a simple interative demo build with SFML 2.5.1 that showcases two moving rectangles on screen. One rectangle moves automatically, while the other is controlled by the player.
+This is an interative demo build with SFML 2.5.1 that showcases two moving rectangles on screen. One rectangle moves automatically, while the other is controlled by the player.
 
 The project demonstrates:
 
