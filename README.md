@@ -1,7 +1,7 @@
-## Shape Movement
+# Shape Movement
 This is an interative demo build with SFML 2.5.1 that showcases two moving rectangles on screen. One rectangle moves automatically, while the other is controlled by the player.
 
-The project demonstrates:
+## Features
 
 - Basic shape rendering
 - Keyboard input handling
@@ -11,8 +11,7 @@ The project demonstrates:
 
 ![ShapeMovementCollision](https://github.com/user-attachments/assets/39bdc7bf-a4d0-46c6-8a21-9923b4486b30)
 
-## How to Run:
-### Prerequisites ---
+## Requirements
 
 - C++ compiler
 - SFML 2.5.1 installed
@@ -26,10 +25,10 @@ The project demonstrates:
 
    > The Red Rectangle moves on its own - continuously drifting down and slightly to the right.
 
-## Goals from here:
-This was a fun project that introduced me to SFML, and I really enjoyed building it! There's so much potential to expand and experiment with different ideas. I'm looking forward to diving deeper.
+## Development Notes and Goals
+This was a fun first dive into SFML, and I really enjoyed building it! It helped me learn the basics of rendering, input, and collision logic. There's a lot of potential for expanding on this foundation and I am looking forward to building more involved games. 
 
-Next, I'd like to:
+Next Steps:
 
 - Work with sprites
 - Introduce basic physics or animation
